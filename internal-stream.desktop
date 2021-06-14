@@ -1,4 +1,4 @@
 [Desktop Entry]
 Type=Application
 Name=Internal RTMP Stream
-Exec=vlc --fullscreen rtmp://192.168.1.167/live/test
+Exec=cvlc --fullscreen rtmp://192.168.1.167/live/test
