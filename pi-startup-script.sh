@@ -1,4 +1,4 @@
-#! bin/bash
+#!/bin/bash
 
 HOST=192.168.1.167
 KEY=test
