@@ -10,4 +10,4 @@ do
     ffprobe -v quiet -print_format json -show_streams rtmp://$HOST/live/$KEY
 done
 
-cvlc --fullscreen rtmp://$HOST/live/$KEY
+vlc --fullscreen rtmp://$HOST/live/$KEY
